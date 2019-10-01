@@ -1,0 +1,6 @@
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\bin\Debug\UnitTests.dll
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\bin\Debug\UnitTests.pdb
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\obj\Debug\UnitTests.dll
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\obj\Debug\UnitTests.pdb
+E:\Git\SocialNetwork\SocialNetwork\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache

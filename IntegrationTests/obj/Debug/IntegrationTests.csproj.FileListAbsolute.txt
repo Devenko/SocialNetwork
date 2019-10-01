@@ -1,0 +1,6 @@
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\bin\Debug\IntegrationTests.dll
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\bin\Debug\IntegrationTests.pdb
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\obj\Debug\IntegrationTests.csproj.CoreCompileInputs.cache
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\obj\Debug\IntegrationTests.dll
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\obj\Debug\IntegrationTests.pdb
+E:\Git\SocialNetwork\SocialNetwork\IntegrationTests\obj\Debug\IntegrationTests.csprojAssemblyReference.cache

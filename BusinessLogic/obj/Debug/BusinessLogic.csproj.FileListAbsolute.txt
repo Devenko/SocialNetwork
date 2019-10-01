@@ -1,0 +1,17 @@
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\Domain.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\Ninject.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\Domain.pdb
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\Domain.dll.config
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\bin\Debug\Ninject.xml
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Git\SocialNetwork\SocialNetwork\BusinessLogic\obj\Debug\BusinessLogic.pdb

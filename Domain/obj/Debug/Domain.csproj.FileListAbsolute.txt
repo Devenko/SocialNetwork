@@ -1,0 +1,12 @@
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\Domain.dll.config
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\Domain.dll
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\Domain.pdb
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\EntityFramework.dll
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\EntityFramework.xml
+E:\Git\SocialNetwork\SocialNetwork\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\SocialNetwork\SocialNetwork\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\Git\SocialNetwork\SocialNetwork\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\Git\SocialNetwork\SocialNetwork\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\Git\SocialNetwork\SocialNetwork\Domain\obj\Debug\Domain.dll
+E:\Git\SocialNetwork\SocialNetwork\Domain\obj\Debug\Domain.pdb
