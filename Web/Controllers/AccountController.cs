@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using System.Web.Security;
 using BusinessLogic;
 using Web.Models;
@@ -48,7 +44,8 @@ namespace Web.Controllers
         public ActionResult Register(RegisterViewModel model)
         {
             if (ModelState.IsValid)
-            { MembershipCreateStatus status = dataManager.MembershipProvider.CreateUser(model.UserName,
+            {
+                MembershipCreateStatus status = dataManager.MembershipProvider.CreateUser(model.UserName,
                                                                                           model.Password,
                                                                                           model.Email,
                                                                                           model.FirstName,
@@ -63,13 +60,19 @@ namespace Web.Controllers
             return View(model);
         }
 
+        public ActionResult Logout()
+        {
+            FormsAuthentication.SignOut();
+            return RedirectToAction("Index");
+        }
+
         //Создаем текст ошибки для MembershipCreateStatus
         public string GetMembershipCreatedStatusResultText(MembershipCreateStatus status)
         {
             if (status == MembershipCreateStatus.DuplicateEmail)
                 return "Пользователь с таким Email адресом уже существует";
             if (status == MembershipCreateStatus.DuplicateUserName)
-                return "Пользователь с таким именем адресом уже существует";
+                return "Пользователь с таким именем уже существует";
 
             return "Неизвестная ошибка";
         }

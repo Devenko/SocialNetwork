@@ -14,7 +14,7 @@ namespace Web
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
-            //Заменяем стандартную фпбрику контроллеров на NinjecnControllerFactory
+            //Заменяем стандартную фабрику контроллеров на NinjecnControllerFactory
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
         }
     }

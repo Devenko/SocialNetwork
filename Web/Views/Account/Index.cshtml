@@ -1,4 +1,4 @@
-﻿@using  Web.Models
+﻿@using Web.Models
 @model LoginViewModel
 @{
     ViewBag.Title = "Добро пожаловать!";
@@ -12,14 +12,14 @@
     {
         <p>@Html.ValidationSummary(true)</p>
         <p>
-            Логин: @Html.TextBoxFor(x=>x.UserName) @Html.ValidationMessageFor(x=>x.UserName)
+            Логин: @Html.TextBoxFor(x => x.UserName) @Html.ValidationMessageFor(x => x.UserName)
         </p>
         <p>
-            Пароль: @Html.EditorFor(x=>x.Password) @Html.ValidationMessageFor(x=>x.Password)
+            Пароль: @Html.EditorFor(x => x.Password) @Html.ValidationMessageFor(x => x.Password)
         </p>
-        <input type="submit" value="Вход"/>
+        <input type="submit" value="Вход" />
     }
-    
+
     <p>
         Если у вас еще нет аккаунта, то вы можете легко @Html.ActionLink("зарегистрироваться", "Register")
     </p>

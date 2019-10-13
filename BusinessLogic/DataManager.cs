@@ -29,7 +29,7 @@ namespace BusinessLogic
             this.provider = provider;
         }
 
-        public IUsersRepository User { get { return usersRepository;} }
+        public IUsersRepository Users { get { return usersRepository;} }
         public IFriendsRepository Friends { get { return friendsRepository;} }
         public IFriendRequestsRepository FriendRequests { get { return friendRequestsRepository;} }
         public IMessagesRepository Messages { get { return messagesRepository;} }
